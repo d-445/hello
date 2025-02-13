@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`6=t-TkMy^JpNS1%1!ar">myImage</variable><variable id="D2{g.?5tvH_?}Ce:E{c}">Level</variable></variables><block type="pxt-on-start" id="5AXBt9AWroj!]{`4lz3e" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="(H63/[0t]n5%+4M2M!V#"><field name="VAR" id="D2{g.?5tvH_?}Ce:E{c}">Level</field><value name="VALUE"><shadow type="math_number" id="5{;o.(s0c[x|^%Mf2N6*"><field name="NUM">0</field></shadow><block type="device_build_big_image" id=",Gg09p{lD-$?}[+:7Y@o"><field name="LEDS">`
+        . . # . . . . . . # 
+        . . . . . . . . . # 
+        . . . . . # . . . # 
+        . . # . . # . . . . 
+        . . # . . # . . . .
+        `</field></block></value></block></statement></block><block type="device_forever" id="LsNM}2nt8^ZBl_g(`(sM" x="-6" y="342"><statement name="HANDLER"><block type="device_show_image_offset" id="engntj0A$Ew_?8@z[_Y7"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id="KCc7A+6fOy2yRH~Z({ud"><field name="VAR" id="D2{g.?5tvH_?}Ce:E{c}">Level</field></block></value><value name="offset"><shadow type="math_number" id="jrAY+AH^4x}f4tEPJky{"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="3+Uj9Mg_wAjFbn_Qraif"><field name="NUM">400</field></shadow></value></block></statement></block></xml>
